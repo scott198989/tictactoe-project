@@ -16,7 +16,7 @@ function Board() {
 
   const handleClick = (i) => {
     if (calculateWinner(squares) || squares[i]) {
-      return; // Ignore the click if the game has been won or the square is already filled
+      return; 
     }
 
     const newSquares = [...squares];
