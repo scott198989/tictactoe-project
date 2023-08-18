@@ -1,5 +1,4 @@
 # tictactoe-project
-                        tictactoe-project
 
 ## Introduction
 
@@ -21,9 +20,8 @@ yarn start
 
 ## Contact
 
-Thank you for checking out my program!  If you would like to follow me or connect with me on linkedin, you can do so at http://www.linkedin/in/scott-tuschl or if you would like to drop me a line and or check out some of my other projects, you can visit my portfolio site at http://www.scott-tuschl.com 
+Thank you for checking out my first major class project! If you would like to connect on linkedin you can do so by clicking my linkedin on my GitHub profile page, or if you would like to drop me a line, or check out some of the other projects I have done, you can do so by visiting my portfolio site at https://www.scott-tuschl.com
 
 Thank you!
-
 
 
