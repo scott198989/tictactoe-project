@@ -1,27 +1,59 @@
-# tictactoe-project
+# Tic-Tac-Toe :crossed_swords:
+
+![Tic-Tac-Toe Screenshot](https://github.com/scott198989/tictactoe-project/blob/main/Tictactoe-Screenshot.png)
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies](#technologies)
+4. [Installation](#installation)
+5. [How to Play](#how-to-play)
+6. [Contributing](#contributing)
+7. [Contact](#contact)
 
 ## Introduction
 
-This is a tic-tac-toe game I made using React.js.  I originally made this game during Jump Start weekend before I enrolled in LEARN Academy, since then I went and re-worked the program and added React to handle state and the updating of the cells.
+This is a Tic-Tac-Toe game built using React.js. I originally created this game as part of a Jump Start weekend before enrolling in LEARN Academy. Since then, I've revamped the game to leverage React for better state management and dynamic cell updates.
 
 ## Features
 
-You can click a square, any square, and try to find the treasure.  If found, you win the game and can start over.  And there is a losing condition as well.
+- Clickable squares: Test your luck by clicking any square on the board.
+- Win & Lose Conditions: Discover the treasure to win or fail and try again!
+  
+## Technologies
 
-## Dependencies
+- React.js
+- Yarn
 
-If using homebrew:
+## Installation
 
+To run this game locally, you'll need Yarn. If you don't have it, install it via Homebrew:
+
+```bash
 brew update
-
 brew install yarn
+```
 
+Then, clone the repository and run the following commands:
+
+```bash
+yarn install
 yarn start
+```
+
+This will install all dependencies and fire up the development server.
+
+## How to Play
+
+Play by yourself, or with a friend, try to get three in a row!
+
+## Contributing
+
+Feel free to fork the repo and submit pull requests for any enhancements, bug fixes, or other contributions.
 
 ## Contact
 
-Thank you for checking out my first major class project! If you would like to connect on linkedin you can do so by clicking my linkedin on my GitHub profile page, or if you would like to drop me a line, or check out some of the other projects I have done, you can do so by visiting my portfolio site at https://www.scott-tuschl.com
+Thanks for checking this out! If you'd like to get in touch, hit me up on [LinkedIn](Your-LinkedIn-URL-Here), or check out my portfolio at [Scott Tuschl](https://www.scott-tuschl.com).
 
-Thank you!
-
-
+Happy Playing! :game_die:
